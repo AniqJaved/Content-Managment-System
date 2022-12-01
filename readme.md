@@ -15,7 +15,7 @@ In this web app you can create your user profile which gets authenticated based 
 ### Preview
 
 
-![](https://s4.gifyu.com/images/CMS.gif)
+![](CMS.gif)
 
 
 
